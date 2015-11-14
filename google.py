@@ -3,6 +3,7 @@
 # Author: psaux0
 # Date: 2015.10.20
 # Python version: >= 3.5
+# Operating Environment - OS X
 
 import argparse
 import subprocess
